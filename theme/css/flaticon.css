@@ -1,0 +1,206 @@
+/*!
+*	______ _	   _   _
+*	|  ____| |	 | | (_)
+*	| |__  | | __ _| |_ _  ___ ___  _ __
+*	|  __| | |/ _` | __| |/ __/ _ \| '_ \
+*	| |	| | (_| | |_| | (_| (_) | | | |
+*	|_|	|_|\__,_|\__|_|\___\___/|_| |_|
+*
+*		 https://www.flaticon.com
+*/
+
+@font-face {
+	font-family: "flaticon";
+	src: url("../fonts/flaticon8bbf.woff2?553c94bd8a3f0d24e290f55fb5c99649") format("woff2"),
+url("../fonts/flaticon8bbf.woff?553c94bd8a3f0d24e290f55fb5c99649") format("woff"),
+url("../fonts/flaticon8bbf.eot?553c94bd8a3f0d24e290f55fb5c99649#iefix") format("embedded-opentype"),
+url("../fonts/flaticon8bbf.ttf?553c94bd8a3f0d24e290f55fb5c99649") format("truetype"),
+url("../fonts/flaticon8bbf.svg?553c94bd8a3f0d24e290f55fb5c99649#flaticon") format("svg")
+}
+
+i[class^="flaticon-"]:before, i[class*=" pbmit-xinterio-icon-"]:before {
+	font-family: flaticon !important;
+	font-style: normal;
+	font-weight: normal !important;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.pbmit-xinterio-icon-brickwall:before {
+	content: "\f101";
+}
+.pbmit-xinterio-icon-pantone:before {
+	content: "\f102";
+}
+.pbmit-xinterio-icon-bathroom:before {
+	content: "\f103";
+}
+.pbmit-xinterio-icon-living-room:before {
+	content: "\f104";
+}
+.pbmit-xinterio-icon-blueprint:before {
+	content: "\f105";
+}
+.pbmit-xinterio-icon-quote-left:before {
+	content: "\f106";
+}
+.pbmit-xinterio-icon-cushions:before {
+	content: "\f107";
+}
+.pbmit-xinterio-icon-right-quotation-mark:before {
+	content: "\f108";
+}
+.pbmit-xinterio-icon-brickwall-1:before {
+	content: "\f109";
+}
+.pbmit-xinterio-icon-star:before {
+	content: "\f10a";
+}
+.pbmit-xinterio-icon-stairs:before {
+	content: "\f10b";
+}
+.pbmit-xinterio-icon-star-1:before {
+	content: "\f10c";
+}
+.pbmit-xinterio-icon-armchair:before {
+	content: "\f10d";
+}
+.pbmit-xinterio-icon-user:before {
+	content: "\f10e";
+}
+.pbmit-xinterio-icon-kitchen:before {
+	content: "\f10f";
+}
+.pbmit-xinterio-icon-bathtub:before {
+	content: "\f110";
+}
+.pbmit-xinterio-icon-axis:before {
+	content: "\f111";
+}
+.pbmit-xinterio-icon-trophy:before {
+	content: "\f112";
+}
+.pbmit-xinterio-icon-house:before {
+	content: "\f113";
+}
+.pbmit-xinterio-icon-world:before {
+	content: "\f114";
+}
+.pbmit-xinterio-icon-3d:before {
+	content: "\f115";
+}
+.pbmit-xinterio-icon-portfolio:before {
+	content: "\f116";
+}
+.pbmit-xinterio-icon-paint:before {
+	content: "\f117";
+}
+.pbmit-xinterio-icon-satisfaction:before {
+	content: "\f118";
+}
+.pbmit-xinterio-icon-bed:before {
+	content: "\f119";
+}
+.pbmit-xinterio-icon-phone:before {
+	content: "\f11a";
+}
+.pbmit-xinterio-icon-blueprint-1:before {
+	content: "\f11b";
+}
+.pbmit-xinterio-icon-telephone:before {
+	content: "\f11c";
+}
+.pbmit-xinterio-icon-blueprint-2:before {
+	content: "\f11d";
+}
+.pbmit-xinterio-icon-map:before {
+	content: "\f11e";
+}
+.pbmit-xinterio-icon-placeholder:before {
+	content: "\f11f";
+}
+.pbmit-xinterio-icon-message:before {
+	content: "\f120";
+}
+.pbmit-xinterio-icon-right:before {
+	content: "\f121";
+}
+.pbmit-xinterio-icon-left:before {
+	content: "\f122";
+}
+.pbmit-xinterio-icon-up-right-arrow:before {
+	content: "\f123";
+}
+.pbmit-xinterio-icon-check-mark:before {
+	content: "\f124";
+}
+.pbmit-xinterio-icon-wallet:before {
+	content: "\f125";
+}
+.pbmit-xinterio-icon-clock:before {
+	content: "\f126";
+}
+.pbmit-xinterio-icon-tick-mark:before {
+	content: "\f127";
+}
+.pbmit-xinterio-icon-conversation:before {
+	content: "\f128";
+}
+.pbmit-xinterio-icon-hard-hat:before {
+	content: "\f129";
+}
+.pbmit-xinterio-icon-tools:before {
+	content: "\f12a";
+}
+.pbmit-xinterio-icon-house-design:before {
+	content: "\f12b";
+}
+.pbmit-xinterio-icon-drill:before {
+	content: "\f12c";
+}
+.pbmit-xinterio-icon-compass:before {
+	content: "\f12d";
+}
+.pbmit-xinterio-icon-tape-measure:before {
+	content: "\f12e";
+}
+.pbmit-xinterio-icon-eco-home:before {
+	content: "\f12f";
+}
+.pbmit-xinterio-icon-plastering:before {
+	content: "\f130";
+}
+.pbmit-xinterio-icon-calendar:before {
+	content: "\f131";
+}
+.pbmit-xinterio-icon-people:before {
+	content: "\f132";
+}
+.pbmit-xinterio-icon-warranty:before {
+	content: "\f133";
+}
+.pbmit-xinterio-icon-premium:before {
+	content: "\f134";
+}
+.pbmit-xinterio-icon-offer:before {
+	content: "\f135";
+}
+.pbmit-xinterio-icon-engineer:before {
+	content: "\f136";
+}
+.pbmit-xinterio-icon-award:before {
+	content: "\f137";
+}
+.pbmit-xinterio-icon-magnifying-glass:before {
+	content: "\f138";
+}
+.pbmit-xinterio-icon-trolley:before {
+	content: "\f139";
+}
+.pbmit-xinterio-icon-client:before {
+	content: "\f13a";
+}
+
