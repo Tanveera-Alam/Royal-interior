@@ -25,7 +25,7 @@
 /** Homepage 01 **/
 .about-one-leftbox{
 	position: relative;
-	background-image: url(../images/homepage-1/about-mask-img.jpg);
+	background-image: url(../images/homepage-1/About\.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -102,6 +102,7 @@
 	transform: perspective(100px) rotateY(-3deg);
     border-radius: 15px;
     transition: .9s;
+    border-radius: 50%;
 }
 .ihbox-one-img-col .ihbox-imgbox:hover img{
 	transform: rotateY(10deg) !important;
