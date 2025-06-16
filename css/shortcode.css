@@ -3096,7 +3096,7 @@ body {
 	right: 0px;
 	top: 0px;
 	padding: 30px;
-	background: rgba(var(--pbmit-global-color-rgb),.9);
+	/* background: rgba(var(--pbmit-global-color-rgb),.9); */
 	will-change: opacity;
 	border-radius: 30px;
 }
