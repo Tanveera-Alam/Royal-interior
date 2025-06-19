@@ -2588,6 +2588,33 @@ body {
     background-size: cover;
     background-attachment: scroll;
 }
+.pbmit-title-bar-wrapper-1{
+	position: relative;
+	z-index: 1;
+	background-image: url(../images/bg/titlebar\ -2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+.pbmit-title-bar-wrapper-2{
+	position: relative;
+	z-index: 1;
+	background-image: url(../images/bg/titlebar\ -4.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+.pbmit-title-bar-wrapper-3{
+	position: relative;
+	z-index: 1;
+	background-image: url(../images/bg/titlebar\ -3.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+}
 .pbmit-title-bar-wrapper,
 .pbmit-title-bar-content{
 	min-height: 570px;
